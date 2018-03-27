@@ -1,3 +1,6 @@
+## Script to help find T50 point of germination 
+## by Nick Pullen 2018-03-27
+
 ## read in your own data here
 ## germData = read.table("")
 
